@@ -1,0 +1,8 @@
+Directions to create DAniel's Page:
+- Create a websitye create by me using HTML, CSS, JavaScript
+- Use simple design (black background)
+- Create:
+    - Resume
+    - LinkedIn link
+    - Blog link
+    - GitHub link
